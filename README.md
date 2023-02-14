@@ -38,4 +38,3 @@
 
 ## 사용한 오픈 소스 & API
  * [한국환경공단 에어코리아 대기오염정보 오픈 API](https://www.data.go.kr/data/15073861/openapi.do)
- * DarkContextMenu (Plugin for dark mode support in Rainmeter)
