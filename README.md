@@ -12,6 +12,9 @@
  * 측정소 변경을 지원하나 재시작 시 기본값으로 바뀝니다. (의도된 동작)
  * 자동 업데이트를 지원합니다.
  
+## 이용 범위
+이 스킨은 저작권법으로 보호받고 있으며 직접 허락하거나 설치한 경우에만 이용이 가능한 저작물입니다. 현재까지 이용이 가능한 곳은 2022년 1-2 교실 컴퓨터입니다. 이곳의 경우 학년이 바뀌긴 했지만 지우는 걸 깜박해서 그냥 쓰셔도 됩니다. 다른 곳에서 이 스킨의 사용을 원하는 경우 akdwc2843@gmail.com으로 연락하시면 답변드립니다.
+ 
 ## 사용 방법
 ![제목 없음](https://user-images.githubusercontent.com/75381985/218766549-6fcf4268-6b4f-4a0f-9e1f-7250c567b168.png)
 
@@ -32,3 +35,7 @@
 ![제목 없음4](https://user-images.githubusercontent.com/75381985/218766535-19fb3ba5-335f-43cb-b590-969b0d8ce1e5.png)
 
 측정소가 점검 중이거나 문제가 생긴 경우 다음과 같이 표시됩니다.
+
+## 사용한 오픈 소스 & API
+ * [한국환경공단 에어코리아 대기오염정보 오픈 API](https://www.data.go.kr/data/15073861/openapi.do)
+ * DarkContextMenu (Plugin for dark mode support in Rainmeter)
