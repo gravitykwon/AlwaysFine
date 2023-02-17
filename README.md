@@ -1,4 +1,4 @@
-![9ba05b63c09f2483916d7ac04379c29a1](https://user-images.githubusercontent.com/75381985/219608229-ec679b38-7e2a-446a-8b3f-602a24e9147c.jpg)
+![9ba05b63c09f2483916d7ac04379c29a1](https://user-images.githubusercontent.com/75381985/219608446-2eb37c51-9119-4788-9779-c693470429f2.jpg)
 
 ## AlwaysFine
 >이거 만들 시간에 공부했으면 전교 1등 했다.
